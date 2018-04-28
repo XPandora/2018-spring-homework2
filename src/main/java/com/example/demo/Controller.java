@@ -11,7 +11,7 @@ import java.io.*;
 import java.util.*;
 
 @RestController
-@RequestMapping(value = "/wordLadder")
+@RequestMapping(value = "/user/wordLadder")
 
 
 public class Controller {

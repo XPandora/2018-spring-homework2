@@ -1,12 +1,13 @@
-2018-04-02 10:32:25,095 INFO (StartupInfoLogger.java:50)- Starting DemoApplication on LAPTOP-ICAITM7B with PID 21188 (E:\java\code\demo7\target\classes started by 33028 in E:\java\code\demo7)
-2018-04-02 10:32:25,098 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
-2018-04-02 10:32:25,102 INFO (SpringApplication.java:652)- No active profile set, falling back to default profiles: default
-2018-04-02 10:32:26,625 INFO (StartupInfoLogger.java:59)- Started DemoApplication in 1.803 seconds (JVM running for 2.695)
-2018-04-02 10:38:54,883 INFO (StartupInfoLogger.java:50)- Starting DemoApplication on LAPTOP-ICAITM7B with PID 18604 (E:\java\code\demo7\target\classes started by 33028 in E:\java\code\demo7)
-2018-04-02 10:38:54,887 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
-2018-04-02 10:38:54,889 INFO (SpringApplication.java:652)- No active profile set, falling back to default profiles: default
-2018-04-02 10:38:56,490 INFO (StartupInfoLogger.java:59)- Started DemoApplication in 1.883 seconds (JVM running for 2.763)
-2018-04-02 10:39:09,884 DEBUG (Controller.java:128)- 访问Worderladder,Path=code codl coal ceal deal 
-2018-04-02 10:39:32,258 DEBUG (Controller.java:128)- 访问Worderladder,Path=dog dot dat cat 
-2018-04-02 10:39:49,007 DEBUG (Controller.java:128)- 访问Worderladder,Path=dog doa dca ca 
-2018-04-02 10:40:04,192 DEBUG (Controller.java:128)- 访问Worderladder,Path=doge doga dga da a 
+2018-04-28 15:52:11,121 INFO (StartupInfoLogger.java:50)- Starting DemoApplication on LAPTOP-ICAITM7B with PID 34188 (E:\java\code\demo7\target\classes started by 33028 in E:\java\code\demo7)
+2018-04-28 15:52:11,125 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2018-04-28 15:52:11,127 INFO (SpringApplication.java:652)- No active profile set, falling back to default profiles: default
+2018-04-28 15:52:13,022 INFO (StartupInfoLogger.java:59)- Started DemoApplication in 2.254 seconds (JVM running for 3.455)
+2018-04-28 15:53:40,605 INFO (StartupInfoLogger.java:50)- Starting DemoApplication on LAPTOP-ICAITM7B with PID 24148 (E:\java\code\demo7\target\classes started by 33028 in E:\java\code\demo7)
+2018-04-28 15:53:40,610 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2018-04-28 15:53:40,612 INFO (SpringApplication.java:652)- No active profile set, falling back to default profiles: default
+2018-04-28 15:53:42,752 INFO (StartupInfoLogger.java:59)- Started DemoApplication in 2.553 seconds (JVM running for 3.507)
+2018-04-28 16:05:45,037 INFO (StartupInfoLogger.java:50)- Starting DemoApplication on LAPTOP-ICAITM7B with PID 11700 (E:\java\code\demo7\target\classes started by 33028 in E:\java\code\demo7)
+2018-04-28 16:05:45,039 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2018-04-28 16:05:45,041 INFO (SpringApplication.java:652)- No active profile set, falling back to default profiles: default
+2018-04-28 16:05:47,707 INFO (StartupInfoLogger.java:59)- Started DemoApplication in 2.977 seconds (JVM running for 4.006)
+2018-04-28 16:07:30,238 DEBUG (Controller.java:128)- 访问Worderladder,Path=code coda cota cata data 
